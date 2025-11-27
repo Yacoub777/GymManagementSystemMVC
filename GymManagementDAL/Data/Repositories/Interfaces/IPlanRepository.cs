@@ -1,0 +1,16 @@
+﻿using GymManagementDAL.Entities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace GymManagementDAL.Data.Repositories.Interfaces
+{
+    internal interface IPlanRepository
+    {
+        IEnumerable<Plan> GetAll();
+        Plan? GetById(int id);
+        int Update(Plan plan);
+    }
+}
