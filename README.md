@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Gym+Management+System;Built+with+ASP.NET+Core+MVC;Clean+Architecture+%7C+EF+Core+%7C+SQL+Server" />
-
 <h2>🏋️ Gym Management System</h2>
 
 <p>
