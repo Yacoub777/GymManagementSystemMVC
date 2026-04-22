@@ -108,21 +108,21 @@ The **Gym Management System** centralizes all core gym operations in one powerfu
 
 ```
 ┌─────────────────────────────────────────────┐
-│           🖥️  Presentation Layer             │
-│     ASP.NET MVC Controllers + Razor Views    │
-│              (Bootstrap UI)                  │
+│           🖥️  Presentation Layer            │
+│     ASP.NET MVC Controllers + Razor Views   │
+│              (Bootstrap UI)                 │
 └─────────────────┬───────────────────────────┘
                   │
 ┌─────────────────▼───────────────────────────┐
-│          ⚙️  Business Logic Layer            │
-│   TrainerService · SessionService · etc.     │
+│          ⚙️ Business Logic Layer            │
+│   TrainerService · SessionService · etc.    │
 └─────────────────┬───────────────────────────┘
                   │
 ┌─────────────────▼───────────────────────────┐
-│           🗄️  Data Access Layer              │
-│     Repository Pattern + Unit of Work        │
-│              (EF Core DbContext)             │
-└─────────────────────────────────────────────┘
+│           🗄️  Data Access Layer             │
+│     Repository Pattern + Unit of Work       │
+│              (EF Core DbContext)            │
+└─────────────────────────────────────────────┘ 
 ```
 
 ---
