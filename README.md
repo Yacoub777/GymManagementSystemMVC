@@ -195,9 +195,4 @@ Member ──────── HealthRecord (1:1)
 
 **Built with ❤️ by [Mostafa Yacoub](https://github.com/Yacoub777)**
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF_Core-7B2FBE?style=flat-square&logo=dotnet&logoColor=white)
-
 </div>
