@@ -1,21 +1,24 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Gym+Management+System;Built+with+ASP.NET+Core+MVC;Clean+Architecture+%7C+EF+Core+%7C+SQL+Server" />
-</p>
+<div align="center">
 
-<h2 align="center">🏋️ Gym Management System</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Gym+Management+System;Built+with+ASP.NET+Core+MVC;Clean+Architecture+%7C+EF+Core+%7C+SQL+Server" />
 
-<p align="center">
+<h2>🏋️ Gym Management System</h2>
+
+<p>
 A scalable backend system for managing gym operations, members, and subscriptions.
 </p>
-![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF_Core-7B2FBE?style=for-the-badge&logo=dotnet&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-FF6B9D?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <br/>
 
-> 🏆 A complete, scalable web-based gym management platform built with **ASP.NET Core MVC** and **Clean 3-Layer Architecture**
+<img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/EF_Core-7B2FBE?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-FF6B9D?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+<br/><br/>
+
+<b>🏆 A complete, scalable web-based gym management platform built with ASP.NET Core MVC and Clean 3-Layer Architecture</b>
 
 </div>
 
